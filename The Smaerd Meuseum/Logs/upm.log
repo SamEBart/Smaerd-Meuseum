@@ -1,0 +1,43 @@
+[2026-11-19T20:02:54.897Z][INFO] Command-line: /home/sam/Unity/Hub/Editor/6000.6.10f1/Editor/Data/Resources/PackageManager/Server/UnityPackageManager server -s 700 --ipc-path /tmp/Unity-Upm-700.sock -l 2 --log-file '/home/sam/The Smaerd Meuseum/Logs/upm.log'
+[2026-11-19T20:02:54.919Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-700.sock).
+[2026-11-19T20:02:54.919Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-700.
+[2026-11-19T20:03:01.036Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:01.055Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:01.388Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.6@0.0.105] from registry 'https://packages.unity.com'
+[2026-11-19T20:03:01.507Z][INFO] project:list-packages --> 200 (471 ms)
+[2026-11-19T20:03:02.273Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.6@0.0.105] from registry 'https://packages.unity.com' (size: 11.5 kB, time: 885ms)
+[2026-11-19T20:03:03.889Z][INFO] project:list-packages --> 200 (2834 ms)
+[2026-11-19T20:03:03.994Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-19T20:03:03.997Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-11-19T20:03:04.014Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:04.073Z][INFO] project:list-packages --> 200 (59 ms)
+[2026-11-19T20:03:04.217Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-11-19T20:03:04.229Z][INFO] project:update-dependencies --> 200 (13 ms)
+[2026-11-19T20:03:04.257Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-19T20:03:05.035Z][INFO] Downloading package [com.unity.ide.visualstudio@2.0.28] from registry 'https://packages.unity.com'
+[2026-11-19T20:03:05.762Z][INFO] Finished downloading package [com.unity.ide.visualstudio@2.0.28] from registry 'https://packages.unity.com' (size: 890 kB, time: 727ms)
+[2026-11-19T20:03:09.941Z][INFO] project:resolve-packages --> 200 (5684 ms)
+[2026-11-19T20:03:45.225Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:45.291Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:45.483Z][INFO] project:list-packages --> 200 (192 ms)
+[2026-11-19T20:03:45.484Z][INFO] project:list-packages --> 200 (265 ms)
+[2026-11-19T20:03:45.661Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-19T20:03:45.666Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-11-19T20:03:49.863Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:50.114Z][INFO] project:list-packages --> 200 (253 ms)
+[2026-11-19T20:03:50.843Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:51.014Z][INFO] project:list-packages --> 200 (172 ms)
+[2026-11-19T20:03:55.141Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:03:56.382Z][INFO] project:list-packages --> 200 (1242 ms)
