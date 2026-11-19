@@ -22446,3 +22446,4 @@ Importing 'GUID: df3079b6682f2854d83dbf2c603f771e - Path: Packages/com.unity.gra
 Imported 'GUID: df3079b6682f2854d83dbf2c603f771e' -> (Import Result ID: 'e1577d4bfb2261e07039aa611ca4ad72') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9081d08e5c8f5e7e6b02c4f92ffe8d46 DependenciesID=dc345ad4f692057f331b82aba92bdc20 StaticDependenciesID=838a6835470fc1da0fd79e75b3966243 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -41,3 +41,16 @@ params: {}
 [2026-11-19T20:03:55.141Z][INFO] project:list-packages <-- Request received
 params: {}
 [2026-11-19T20:03:56.382Z][INFO] project:list-packages --> 200 (1242 ms)
+[2026-11-19T20:09:36.211Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-11-19T20:09:36.251Z][INFO] project:update-dependencies --> 200 (41 ms)
+[2026-11-19T20:09:36.279Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-19T20:09:38.007Z][INFO] project:resolve-packages --> 200 (1727 ms)
+[2026-11-19T20:09:42.094Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-19T20:09:42.099Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-11-19T20:09:42.104Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-19T20:09:42.160Z][INFO] project:list-packages --> 200 (56 ms)
+[2026-11-19T20:09:51.571Z][INFO] Shutting down UnityPackageManager: parent process [700] is no longer running.

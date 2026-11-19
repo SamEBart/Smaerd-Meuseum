@@ -8447,3 +8447,56 @@ Asset Pipeline Refresh (id=502d4a2506b33b1f28d6d4e1e0c6c127): Total: 0.121 secon
 [Worker2] Imported GUID: 877cfbcc0403542bfad5325abdbf5944 - Path: Packages/com.unity.render-pipelines.universal/Tests/Editor/Tools/Converters/MaterialUpgrader/AutodeskInteractiveFadeMaterialUpgradeTest.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '0241a703d6e0360850d239f2f40efe1d') in 0.008207259 seconds
 [Worker1] Imported GUID: df3079b6682f2854d83dbf2c603f771e - Path: Packages/com.unity.graph-authoring/Editor/ShaderImplementation/Provider/ProviderAttribute.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e1577d4bfb2261e07039aa611ca4ad72') in 0.008109286 seconds
 [Worker0] Imported GUID: c1da4bb8f6d579e4aa0584f149ad9256 - Path: Packages/com.unity.render-pipelines.universal/Tests/Editor/Tools/Converters/AnimationClipConverter/AnimationClipConverterTests.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '51a509c61e6ceacf625807122c79eaca') in 0.008823504 seconds
+[Package Manager] Done resolving packages in 1.76 seconds
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Lock file was created
+Unhandled description string [
+Unhandled description string ]
+[Package Manager] Registered 42 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ide.rider@3.1.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.ide.rider@570989d4a882)
+    com.unity.ide.visualstudio@2.0.26 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+  Built-in packages:
+    com.unity.modules.accessibility@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.test-framework@1.8.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.test-framework@60031fc92218)
+    com.unity.ext.nunit@2.1.0 (location: /home/sam/The Smaerd Meuseum/Library/PackageCache/com.unity.ext.nunit@508b95ff9afe)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 4.04 seconds
+The current working directory was changed from your Unity project folder located at '/home/sam/The Smaerd Meuseum' to '/home/sam/Smaerd-Meuseum/The Smaerd Meuseum'. This is not allowed! If you are setting the current working directory from script temporarily, then please make sure to set it back to the Unity project folder immediately after you are done.

@@ -22565,3 +22565,4 @@ Importing 'GUID: c1da4bb8f6d579e4aa0584f149ad9256 - Path: Packages/com.unity.ren
 Imported 'GUID: c1da4bb8f6d579e4aa0584f149ad9256' -> (Import Result ID: '51a509c61e6ceacf625807122c79eaca') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5944038edf08aee9123c4d94607955ad DependenciesID=0c20ce535cc4118cb54bfdbfedd0f629 StaticDependenciesID=29f2f356e461c1eaa625d476e38b85ec 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
